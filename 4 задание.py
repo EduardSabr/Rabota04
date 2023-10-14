@@ -16,7 +16,7 @@ def ggg(num):
         num %= 1000
 # Обработка сотен и десятков
     words += ggg2(num)
-
+# Обработка единиц
     if num % 10 != 0 and num % 100 not in range(11, 20):
         if num % 10 == 1:
             words += ' рубль'
