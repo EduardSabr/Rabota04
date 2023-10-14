@@ -14,7 +14,7 @@ def ggg(num):
         thousands = num // 1000
         words += f'{ggg2(thousands)} тысяч '
         num %= 1000
-
+# Обработка сотен и десятков
     words += ggg2(num)
 
     if num % 10 != 0 and num % 100 not in range(11, 20):
