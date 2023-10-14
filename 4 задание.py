@@ -9,7 +9,7 @@ def ggg(num):
         return 'ноль рублей'
 
     words = ''
-
+# Обрабатываем тысячи
     if num // 1000 > 0:
         thousands = num // 1000
         words += f'{ggg2(thousands)} тысяч '
