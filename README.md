@@ -7,6 +7,7 @@
 
 # Среда разработки
 Язык программирования: Python
+
 Среда разработки: Pycharm 2021
 
 # Инструкция по работе
@@ -15,4 +16,5 @@
 # Результаты тестирования
 ![Alt-текст](https://avatars.mds.yandex.net/get-images-cbir/1367000/oH8YWpwlKMgz-Gnp4YCjbQ26/ocr)
 ![Alt-текст](https://avatars.mds.yandex.net/get-images-cbir/849671/HLwfstlccfCVNjzBvcV7mQ98/ocr)
+![Alt-текст](https://avatars.mds.yandex.net/get-images-cbir/173322/BHkWUKmvbAltzWfbio7ZmA129/ocr)
 ![Alt-текст](https://avatars.mds.yandex.net/get-images-cbir/173322/BHkWUKmvbAltzWfbio7ZmA129/ocr)
