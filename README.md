@@ -14,7 +14,7 @@
 Открываем файл '4 задание.py', необходимо ввести число от 1 до 100 000 (сумму выдачи в банкомате) и вывести на экран словами введённую сумму.
 
 # Результаты тестирования
-![Alt-текст](https://avatars.mds.yandex.net/get-images-cbir/1367000/oH8YWpwlKMgz-Gnp4YCjbQ26/ocr)
-![Alt-текст](https://avatars.mds.yandex.net/get-images-cbir/849671/HLwfstlccfCVNjzBvcV7mQ98/ocr)
-![Alt-текст](https://avatars.mds.yandex.net/get-images-cbir/173322/BHkWUKmvbAltzWfbio7ZmA129/ocr)
-![Alt-текст](https://avatars.mds.yandex.net/get-images-cbir/173322/BHkWUKmvbAltzWfbio7ZmA129/ocr)
+![Alt-текст](https://github.com/EduardSabr/Rabota04/blob/main/1%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
+![Alt-текст](https://github.com/EduardSabr/Rabota04/blob/main/2%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
+![Alt-текст](https://github.com/EduardSabr/Rabota04/blob/main/3%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
+![Alt-текст](https://github.com/EduardSabr/Rabota04/blob/main/4%20%D1%84%D0%BE%D1%82%D0%BE.jpg?raw=true)
